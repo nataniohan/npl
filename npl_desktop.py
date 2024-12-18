@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 #import tensorflow_datasets as tfds
 
 #drive.mount("/content/drive", force_remount=True)
-
+##comentario teste
 #path = '/content/drive/MyDrive/PNL_DATASET/trainingandtestdata.zip'
 #zip_object = zipfile.ZipFile(file = path, mode = 'r')
 #zip_object.extractall('./')
